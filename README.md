@@ -13,6 +13,7 @@
 - **LinkedIn:** [LinkedIn Victor](https://www.linkedin.com/in/victor-moura-26a10a232/)
 - **GitHub:** [GitHub Victor](https://github.com/victor-malloni)
 - **Artstation:** [ArtStation Victor](https://www.artstation.com/oxemalloni)
+- **Historico escolar:** [Historico Victor](https://drive.google.com/file/d/1nlrZn3O94ISi41hG-WHDSbD5faa31gC4/view?usp=sharing)
 
 ## Resumo:
 
