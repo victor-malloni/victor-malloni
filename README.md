@@ -23,14 +23,15 @@ Minha trajetória inclui experiência em algumas áreas, incluindo Recepcionista
 
 ### Recepcionista no Vila gale eco resort do cabo
 - **Período:** [2018] - [2019]
-- Habilidade para o atendimento a clientes, efetuando a identificação de necessidades e esclarecimento de dúvidas referentes a produtos ou serviços.
+- Capacidade de atender aos clientes, identificando suas necessidades e esclarecendo dúvidas sobre produtos ou serviços.
 
 ### Freelancer como Assistente em Fotografia Newborn
 - **Período:** [2018] - [2022]
+- Organizar/Montar cenários; Atender pais/parentes; Posicionar recém nascido.
 
 ### Voluntário no Dimesa Boardgames
 - **Período:** Desde 2020
-- Desenvolvo modelos 3D especificos para auxiliar nos jogos de tabuleiro trabalhados em ongs para crianças e idosos.
+- Analiso, elaboro e crio objetos 3D para aprimorar a abordagem dos jogos de tabuleiro.
 
 ## Educação:
 <img src="https://i.giphy.com/media/j528jY71OUG0imgv4Y/giphy.webp" alt="Se voce quer, voce consegue" width="300" height="150">
