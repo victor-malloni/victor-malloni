@@ -11,7 +11,6 @@
 - **Endereço:** Recife
 - **E-mail:** mallonivictor02@gmail.com
 - **LinkedIn:** [LinkedIn Victor](https://www.linkedin.com/in/victor-moura-26a10a232/)
-- **GitHub:** [GitHub Victor](https://github.com/victor-malloni)
 - **Artstation:** [ArtStation Victor](https://www.artstation.com/oxemalloni)
 - **Historico escolar:** [Historico Victor](https://drive.google.com/file/d/1nlrZn3O94ISi41hG-WHDSbD5faa31gC4/view?usp=sharing)
 
@@ -32,9 +31,8 @@ Minha trajetória inclui experiência em algumas áreas, incluindo Recepcionista
 ### Voluntário no Dimesa Boardgames
 - **Período:** Desde 2020
 - Analiso, elaboro e crio objetos 3D para aprimorar a abordagem dos jogos de tabuleiro.
-
-## Educação:
 <img src="https://i.giphy.com/media/j528jY71OUG0imgv4Y/giphy.webp" alt="Se voce quer, voce consegue" width="300" height="150">
+## Educação:
 
 ### Ciências da Computação 
 - **Grau:** [Bacharel em Ciências da Computação]
