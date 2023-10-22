@@ -31,7 +31,9 @@ Minha trajetória inclui experiência em algumas áreas, incluindo Recepcionista
 ### Voluntário no Dimesa Boardgames
 - **Período:** Desde 2020
 - Analiso, elaboro e crio objetos 3D para aprimorar a abordagem dos jogos de tabuleiro.
+
 <img src="https://i.giphy.com/media/j528jY71OUG0imgv4Y/giphy.webp" alt="Se voce quer, voce consegue" width="300" height="150">
+
 ## Educação:
 
 ### Ciências da Computação 
