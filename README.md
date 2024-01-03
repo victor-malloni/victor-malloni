@@ -7,12 +7,11 @@
 <img src="https://gifdb.com/images/high/cartoon-cat-sketch-drawing-computer-q6ahnmbmjt8tuj6a.webp" alt="Se voce quer, voce consegue" width="300" height="150">
 
 - **Nome:** Victor Malloni
-- **Faculdade:** Bacharel formado em Ciências da computação
+- **Faculdade:** Formado em Ciências da computação presencial 
 - **Endereço:** Recife
 - **E-mail:** mallonivictor02@gmail.com
 - **LinkedIn:** [LinkedIn Victor](https://www.linkedin.com/in/victor-moura-26a10a232/)
 - **Artstation:** [ArtStation Victor](https://www.artstation.com/oxemalloni)
-- **Historico escolar:** [Historico Victor](https://drive.google.com/file/d/1nlrZn3O94ISi41hG-WHDSbD5faa31gC4/view?usp=sharing)
 
 ## Resumo:
 
